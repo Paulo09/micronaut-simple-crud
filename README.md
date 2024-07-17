@@ -1,5 +1,5 @@
 
-                                          Para criar uma aplicação de cadastro de estudantes em Micronaut, siga o passo a passo abaixo:
+                          Para criar uma aplicação de cadastro de estudantes em Micronaut, siga o passo a passo abaixo:
                                           
 
 Instale o Micronaut CLI seguindo as instruções no site oficial: https://micronaut.io/download.html
